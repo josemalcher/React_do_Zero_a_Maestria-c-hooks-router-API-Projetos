@@ -90,6 +90,30 @@ FONTE: COPILOT
 
 *UPDATE* -> https://www.youtube.com/watch?v=ERflhpiMc1o
 
+[Secao01-Introducao/hello-word](Secao01-Introducao/hello-word)
+
+```
+ $ npx create-vite .
+Need to install the following packages:
+create-vite@6.1.1
+Ok to proceed? (y) y
+
+✔ Select a framework: › React
+✔ Select a variant: › JavaScript
+
+Scaffolding project in /home/josemalcher/workspaces/React_do_Zero_a_Maestria-c-hooks-router-API-Projetos/Secao01-Introducao/proj_exemplo2...
+
+Done. Now run:
+
+  npm install
+  npm run dev
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ $ npm i                   
+```
+
+[Secao01-Introducao/proj_exemplo2](Secao01-Introducao/proj_exemplo2)
+
 ### 10. Criação de projetos com Vite
 ### 11. Estrutura inicial do React
 ### 12. Extensão para React no VS Code
